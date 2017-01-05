@@ -1,0 +1,32 @@
+{
+  "name": "is-it-weekend",
+  "version": "0.0.0",
+  "description": "Returns true if it's Saturday or Sunday, otherwise it returns false",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/is-it-weekend.git"
+  },
+  "keywords": [
+    "date",
+    "calendar",
+    "weekday",
+    "weekend",
+    "day",
+    "days"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/is-it-weekend/issues"
+  },
+  "homepage": "https://github.com/watson/is-it-weekend#readme"
+}
