@@ -1,6 +1,6 @@
 {
   "name": "is-it-weekend",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Returns true if it's Saturday or Sunday, otherwise it returns false",
   "main": "index.js",
   "dependencies": {},
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/watson/is-it-weekend#readme",
   "coordinates": [
-    55.6809835,
-    12.5641104
+    55.6810251,
+    12.564459
   ]
 }
